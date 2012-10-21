@@ -19,7 +19,7 @@ myDiv.style.color = "yellow";
 // Continues with	A-z a-z 0-9 _ $
 
 var car = "Audi";
-var Color = "blue";
+var CapColor = "blue";
 var _myVariable = "something";
 var $specialName = 1;
 var a342525 = "What is this?";
@@ -75,7 +75,7 @@ console.log("World outside of sayHello() ->", world);
 
 // ================================================
 // Shadowing
-
+/*
 var myColor = "blue";
 console.log("myColor before myFunc() ->", myColor);
 
@@ -92,4 +92,39 @@ myFunc();
 
 console.log("myColor after myFunc() ->", myColor);
 console.log("myNumber after myFunc() ->", myNumber);
+*/
+
+
+
+// ================================================
+// Hoisting
+
+// javaScript does NOT have "block scope"
+// scope changes when defining a new function()
+
+// ! declare Variables at the TOP of functions
+
+function doSomething (doit) {
+	var thiscolor = "blue", 
+		name;
+
+	var number;
+	if(doit) {
+		// v does not define a new variable
+		var thiscolor = "red";
+		number = 10;
+		console.log("Color in if(){}", thiscolor, number, name);
+	}
+	console.log("Color after if(){}", thiscolor, number, name);
+
+};
+
+doSomething(false);
+doSomething(true);
+
+
+
+
+
+
 
