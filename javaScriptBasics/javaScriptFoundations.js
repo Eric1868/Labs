@@ -110,7 +110,7 @@ function doSomething (doit) {
 
 	var number;
 	if(doit) {
-		// v does not define a new variable
+		//   v  does not define a new variable
 		var thiscolor = "red";
 		number = 10;
 		console.log("Color in if(){}", thiscolor, number, name);
