@@ -119,8 +119,8 @@ function doSomething (doit) {
 
 };
 
-doSomething(false);
-doSomething(true);
+//doSomething(false);
+//doSomething(true);
 
 
 
