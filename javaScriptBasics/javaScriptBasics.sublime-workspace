@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"Ron",
+				"random  (function)"
+			],
+			[
+				"to",
+				"toLowerCase  (function)"
+			],
+			[
+				"par",
+				"part2  (variable)"
+			],
+			[
+				"sta",
+				"statement3"
+			],
+			[
 				"ta",
 				"target	@target"
 			]
@@ -88,6 +104,12 @@
 	},
 	"file_history":
 	[
+		"/Users/ericmiller/Sites/labs/javaScriptBasics/jsFoundations.html",
+		"/Users/ericmiller/Sites/labs/javaScriptBasics/numbers.js",
+		"/Users/ericmiller/Sites/labs/javaScriptBasics/javaScriptFoundations.js",
+		"/Users/ericmiller/Sites/labs/javaScriptBasics/strings.js",
+		"/Users/ericmiller/Sites/labs/javaScriptBasics/index.html",
+		"/Users/ericmiller/Sites/labs/javaScriptBasics/myScript.js",
 		"/Users/ericmiller/Sites/labs/javaBasics/index.html",
 		"/Users/ericmiller/Sites/labs/javaBasics/myScript.js",
 		"/Users/ericmiller/Sites/labs/index.html",
