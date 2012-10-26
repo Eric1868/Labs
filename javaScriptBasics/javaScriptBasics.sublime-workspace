@@ -4,12 +4,60 @@
 		"selected_items":
 		[
 			[
-				"Ron",
-				"random  (function)"
+				"proto",
+				"Prototypes"
+			],
+			[
+				"P",
+				"Person"
+			],
+			[
+				"pers",
+				"personPrototype"
+			],
+			[
+				"jim",
+				"jimGreet"
+			],
+			[
+				"add",
+				"addEventListener  (function)"
+			],
+			[
+				"call",
+				"callTwice"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"type",
+				"typeof  (keyword)"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"con",
+				"console"
 			],
 			[
 				"to",
-				"toLowerCase  (function)"
+				"toString"
+			],
+			[
+				"m",
+				"my_array"
+			],
+			[
+				"Ron",
+				"random  (function)"
 			],
 			[
 				"par",
@@ -87,7 +135,7 @@
 				"Set Syntax: R Console"
 			]
 		],
-		"width": 449.0
+		"width": 431.0
 	},
 	"console":
 	{
@@ -104,11 +152,16 @@
 	},
 	"file_history":
 	[
+		"/Users/ericmiller/Sites/labs/javaScriptBasics/jsFunctions.html",
+		"/Users/ericmiller/Sites/labs/javaScriptBasics/objects.js",
+		"/Users/ericmiller/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/ericmiller/Sites/labs/javaScriptBasics/functions.js",
+		"/Users/ericmiller/Sites/labs/javaScriptBasics/index.html",
 		"/Users/ericmiller/Sites/labs/javaScriptBasics/jsFoundations.html",
+		"/Users/ericmiller/Sites/labs/javaScriptBasics/arrays.js",
 		"/Users/ericmiller/Sites/labs/javaScriptBasics/numbers.js",
 		"/Users/ericmiller/Sites/labs/javaScriptBasics/javaScriptFoundations.js",
 		"/Users/ericmiller/Sites/labs/javaScriptBasics/strings.js",
-		"/Users/ericmiller/Sites/labs/javaScriptBasics/index.html",
 		"/Users/ericmiller/Sites/labs/javaScriptBasics/myScript.js",
 		"/Users/ericmiller/Sites/labs/javaBasics/index.html",
 		"/Users/ericmiller/Sites/labs/javaBasics/myScript.js",
@@ -236,6 +289,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 246.0,
+	"side_bar_width": 136.0,
 	"status_bar_visible": true
 }
